@@ -1,0 +1,14 @@
+D:\DEVELOPMENT\BACK END\VB.net\ConnectionDatabase\ConnectionDatabase\obj\x86\Debug\ConnectionDatabase.vbprojResolveAssemblyReference.cache
+D:\DEVELOPMENT\BACK END\VB.net\ConnectionDatabase\ConnectionDatabase\obj\x86\Debug\ConnectionDatabase.Form1.resources
+D:\DEVELOPMENT\BACK END\VB.net\ConnectionDatabase\ConnectionDatabase\obj\x86\Debug\ConnectionDatabase.Resources.resources
+D:\DEVELOPMENT\BACK END\VB.net\ConnectionDatabase\ConnectionDatabase\obj\x86\Debug\ConnectionDatabase.vbproj.GenerateResource.Cache
+D:\DEVELOPMENT\BACK END\VB.net\ConnectionDatabase\ConnectionDatabase\bin\Debug\ConnectionDatabase.exe
+D:\DEVELOPMENT\BACK END\VB.net\ConnectionDatabase\ConnectionDatabase\bin\Debug\ConnectionDatabase.pdb
+D:\DEVELOPMENT\BACK END\VB.net\ConnectionDatabase\ConnectionDatabase\bin\Debug\ConnectionDatabase.xml
+D:\DEVELOPMENT\BACK END\VB.net\ConnectionDatabase\ConnectionDatabase\obj\x86\Debug\ConnectionDatabase.exe
+D:\DEVELOPMENT\BACK END\VB.net\ConnectionDatabase\ConnectionDatabase\obj\x86\Debug\ConnectionDatabase.xml
+D:\DEVELOPMENT\BACK END\VB.net\ConnectionDatabase\ConnectionDatabase\obj\x86\Debug\ConnectionDatabase.pdb
+D:\DEVELOPMENT\BACK END\VB.net\ConnectionDatabase\ConnectionDatabase\obj\x86\Debug\ConnectionDatabase.Form2.resources
+D:\DEVELOPMENT\BACK END\VB.net\1. KONSEP OOP ODBC (Object Oriented Programming)\TEMPLATE_OOP_IEPA_2_VARIABEL_V1\ConnectionDatabase\obj\x86\Debug\ConnectionDatabase.exe
+D:\DEVELOPMENT\BACK END\VB.net\1. KONSEP OOP ODBC (Object Oriented Programming)\TEMPLATE_OOP_IEPA_2_VARIABEL_V1\ConnectionDatabase\obj\x86\Debug\ConnectionDatabase.xml
+D:\DEVELOPMENT\BACK END\VB.net\1. KONSEP OOP ODBC (Object Oriented Programming)\TEMPLATE_OOP_IEPA_2_VARIABEL_V1\ConnectionDatabase\obj\x86\Debug\ConnectionDatabase.pdb
